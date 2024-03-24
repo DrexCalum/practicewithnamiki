@@ -16,6 +16,6 @@
 @endforeach
 
 
-<p>Hi this another page created by dxeter</p>
+<p>Hi this another page created by dexter</p>
 </body>
 </html>
