@@ -15,5 +15,7 @@
 <p>Average Rating: {{ $post->ratings()->avg('value') }}</p>
 @endforeach
 
+
+<p>Hi this another page created by dexter</p>
 </body>
 </html>
